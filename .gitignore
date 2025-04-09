@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# Don’t commit secrets or local overrides
+.env
+.env.local
+
 # testing
 /coverage
 
