@@ -1,7 +1,12 @@
-This application is an e-commerce store named 'DriveGreen' for selling electric vehicles online.
+This application is an e-commerce store named 'DriveGreen' for selling vehicles online.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## About the AI-powered Chatbot
+
+### This project uses 'OpenAI Node.js Library' to integrate the ChatGPT model into the chatbot.
+
+
+## Local Development
 
 ### Check out `main` branch code in your local machine
 
