@@ -3,12 +3,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## About the AI-powered Chatbot
 
-### This project uses 'OpenAI Node.js Library' to integrate the ChatGPT model into the chatbot.
+
+### This project uses 'OpenAI Node.js SDK' to integrate the ChatGPT model into the chatbot.
 
 
 ## Local Development
 
-### Check out `main` branch code in your local machine
 
 ### Set Up Environment
 
